@@ -9,7 +9,7 @@
     // My config is below
 
     // Include the DB.php file
-    Include_once "/../classes/DB.php";
+    Include_once "inc/classes/DB.php";
 
     $con = DB::getConnection();
 
